@@ -1,0 +1,46 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "grellkun@gmail.com",
+    "longName": "PetCat",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/whiteCatRight.png",
+                "name": "WHITE_CAT_RIGHT",
+                "type": "png"
+            },
+            {
+                "file": "images/whiteCat.png",
+                "name": "WHITE_CAT",
+                "type": "png"
+            },
+            {
+                "file": "images/blackCatRight.png",
+                "name": "BLACK_CAT_RIGHT",
+                "type": "png"
+            },
+            {
+                "file": "images/blackCat.png",
+                "name": "BLACK_CAT",
+                "type": "png"
+            },
+            {
+                "file": "images/no_litter.png",
+                "name": "IMAGE_NO_LITTER",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "PetCat",
+    "uuid": "764c0a70-1135-4b12-8f33-0bab67472490",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
