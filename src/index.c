@@ -45,7 +45,7 @@ static void data_handler(AccelData *data, uint32_t num_samples) {
 
  
   
-  text_layer_set_text(s_output_layer, "BADASS CAT");
+  text_layer_set_text(s_output_layer, "PEBBLE CAT");
   
   text_layer_set_text(s_counter_layer, count_buffer); 
    
